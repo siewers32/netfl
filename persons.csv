@@ -1,0 +1,81 @@
+id;title;firstname;lastname;email;jobtitle;created_at;updated_at
+1;dhr.;Valentijn;Broeckx;vbroeckx@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+2;drs.;Amy;Luitgardis van Neustrië;aluitgardisvanneustrië@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+3;mevr.;Yfke;Postma;ypostma@superduper.com;medewerker communicatie;2023-03-27 15:12:46;2023-03-27 15:12:46
+4;dhr.;Pleun;Roessink;proessink@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+5;dhr.;Yasmine;van de Noordmark;yvandenoordmark@superduper.com;medewerker M&O;2023-03-27 15:12:46;2023-03-27 15:12:46
+6;drs.;Micha;van Breugel;mvanbreugel@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+7;mevr.;Madelief;Vignon;mvignon@superduper.com;kassamedewerker;2023-03-27 15:12:46;2023-03-27 15:12:46
+8;dhr.;Madelief;Ulrich;mulrich@superduper.com;magazijnmedewerker;2023-03-27 15:12:46;2023-03-27 15:12:46
+9;mevr.;Loes;Martens;lmartens@superduper.com;verkoopassistent;2023-03-27 15:12:46;2023-03-27 15:12:46
+10;drs.;Elise;Amalrada;eamalrada@superduper.com;verkoopadviseur;2023-03-27 15:12:46;2023-03-27 15:12:46
+11;drs.;Giovanni;Gnodde;ggnodde@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+12;dhr.;Fenne;de Bruin;fdebruin@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+13;dr.;Joost;van den Brink;jvandenbrink@superduper.com;verkoopassistent;2023-03-27 15:12:46;2023-03-27 15:12:46
+14;ing.;Levi;Jansen;ljansen@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+15;ing.;Selina;van de Ven;svandeven@superduper.com;kwaliteitsmanager;2023-03-27 15:12:46;2023-03-27 15:12:46
+16;drs.;Jason;Arnold;jarnold@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+17;dr.;Helena;Rouwhorst;hrouwhorst@superduper.com;medewerker communicatie;2023-03-27 15:12:46;2023-03-27 15:12:46
+18;ing.;Tirza;van Loon;tvanloon@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+19;drs.;Jolijn;van Baalen;jvanbaalen@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+20;drs.;Mia;Kanhai;mkanhai@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+21;drs.;Dana;van den Heuvel;dvandenheuvel@superduper.com;verkoopassistent;2023-03-27 15:12:46;2023-03-27 15:12:46
+22;dhr.;Megan;Brouwer;mbrouwer@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+23;mevr.;Mason;Weerdenburg;mweerdenburg@superduper.com;medewerker communicatie;2023-03-27 15:12:46;2023-03-27 15:12:46
+24;dhr.;Jelte;Mol;jmol@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+25;mevr.;Victor;Jacobs;vjacobs@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+26;prof.;Lois;van de Velde;lvandevelde@superduper.com;projectleider;2023-03-27 15:12:46;2023-03-27 15:12:46
+27;dr.;Sanne;Aarden;saarden@superduper.com;verkoopadviseur;2023-03-27 15:12:46;2023-03-27 15:12:46
+28;dhr.;Rik;van der Stael de Jonge;rvanderstaeldejonge@superduper.com;medewerker salarisadministratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+29;ing.;Senn;Malik;smalik@superduper.com;magazijnmedewerker;2023-03-27 15:12:46;2023-03-27 15:12:46
+30;dr.;Ali;Keskin;akeskin@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+31;dhr.;Nynke;Kuipers;nkuipers@superduper.com;magazijnmedewerker;2023-03-27 15:12:46;2023-03-27 15:12:46
+32;dr.;Jolijn;Zhang;jzhang@superduper.com;projectleider;2023-03-27 15:12:46;2023-03-27 15:12:46
+33;mr.;Jens;Oostveen;joostveen@superduper.com;medewerker communicatie;2023-03-27 15:12:46;2023-03-27 15:12:46
+34;ds.;Rayan;Keskin;rkeskin@superduper.com;magazijnmedewerker;2023-03-27 15:12:46;2023-03-27 15:12:46
+35;dhr.;Joost;de Bruin;jdebruin@superduper.com;projectleider;2023-03-27 15:12:46;2023-03-27 15:12:46
+36;ir.;Naud;Molen;nmolen@superduper.com;directeur;2023-03-27 15:12:46;2023-03-27 15:12:46
+37;mevr.;Joris;Sahin;jsahin@superduper.com;magazijnmedewerker;2023-03-27 15:12:46;2023-03-27 15:12:46
+38;dr.;Melissa;Bos;mbos@superduper.com;supervisor;2023-03-27 15:12:46;2023-03-27 15:12:46
+39;dhr.;Puk;Demirci;pdemirci@superduper.com;hoofd administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+40;dhr.;Tess;van Dagsburg;tvandagsburg@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+41;prof.;Nick;Friehus;nfriehus@superduper.com;projectleider;2023-03-27 15:12:46;2023-03-27 15:12:46
+42;dhr.;Emma;Verboom;everboom@superduper.com;verkoopassistent;2023-03-27 15:12:46;2023-03-27 15:12:46
+43;mevr.;Johannes;Smeets;jsmeets@superduper.com;verkoopadviseur;2023-03-27 15:12:46;2023-03-27 15:12:46
+44;dhr.;Maxim;Spring in ‘t Veld;mspringin‘tveld@superduper.com;kassamedewerker;2023-03-27 15:12:46;2023-03-27 15:12:46
+45;mevr.;Finn;van der Berg;fvanderberg@superduper.com;hoofd administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+46;dhr.;Damian;Loukili;dloukili@superduper.com;kassamedewerker;2023-03-27 15:12:46;2023-03-27 15:12:46
+47;prof.;Lily;van de Wal;lvandewal@superduper.com;kassamedewerker;2023-03-27 15:12:46;2023-03-27 15:12:46
+48;drs.;Jade;Vergeer;jvergeer@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+49;drs.;Bibi;Draaisma;bdraaisma@superduper.com;verkoopassistent;2023-03-27 15:12:46;2023-03-27 15:12:46
+50;dhr.;Lara;Visser;lvisser@superduper.com;magazijnmedewerker;2023-03-27 15:12:46;2023-03-27 15:12:46
+51;ing.;Sem;van Haarlem;svanhaarlem@superduper.com;magazijnmedewerker;2023-03-27 15:12:46;2023-03-27 15:12:46
+52;mevr.;Pepijn;van de Brink;pvandebrink@superduper.com;commercieel directeur;2023-03-27 15:12:46;2023-03-27 15:12:46
+53;mevr.;Pleun;Ramcharan;pramcharan@superduper.com;medewerker M&O;2023-03-27 15:12:46;2023-03-27 15:12:46
+54;mr.;Romy;Sardjoe;rsardjoe@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+55;mevr.;Maud;Koçak;mkoçak@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+56;mevr.;James;Scharroo;jscharroo@superduper.com;magazijnmedewerker;2023-03-27 15:12:46;2023-03-27 15:12:46
+57;dhr.;Linde;van den Velde;lvandenvelde@superduper.com;verkoopadviseur;2023-03-27 15:12:46;2023-03-27 15:12:46
+58;prof.;Leah;van de Berg;lvandeberg@superduper.com;medewerker M&O;2023-03-27 15:12:46;2023-03-27 15:12:46
+59;drs.;Indy;Uzun;iuzun@superduper.com;projectleider;2023-03-27 15:12:46;2023-03-27 15:12:46
+60;mevr.;Sil;Ahmadi;sahmadi@superduper.com;medewerker M&O;2023-03-27 15:12:46;2023-03-27 15:12:46
+61;dhr.;Leon;van Metz;lvanmetz@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+62;mevr.;Rafael;van den Velde;rvandenvelde@superduper.com;verkoopadviseur;2023-03-27 15:12:46;2023-03-27 15:12:46
+63;prof.;Bradley;Kok;bkok@superduper.com;verkoopassistent;2023-03-27 15:12:46;2023-03-27 15:12:46
+64;ir.;Fenna;Lorreijn;florreijn@superduper.com;medewerker M&O;2023-03-27 15:12:46;2023-03-27 15:12:46
+65;ing.;Jonathan;van de Velden;jvandevelden@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+66;prof.;Liv;van der Meulen;lvandermeulen@superduper.com;directeur;2023-03-27 15:12:46;2023-03-27 15:12:46
+67;mevr.;Mika;van Ghoerle;mvanghoerle@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+68;mevr.;Fabian;Şahin;fŞahin@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+69;drs.;Laura;van de Velde;lvandevelde@superduper.com;verkoopassistent;2023-03-27 15:12:46;2023-03-27 15:12:46
+70;dhr.;Mart;Sitters;msitters@superduper.com;medewerker salarisadministratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+71;ir.;Yassin;Avci;yavci@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+72;drs.;Eliza;Veenstra;eveenstra@superduper.com;supervisor;2023-03-27 15:12:46;2023-03-27 15:12:46
+73;dhr.;Emir;de Koning;edekoning@superduper.com;projectleider;2023-03-27 15:12:46;2023-03-27 15:12:46
+74;mr.;Zeynep;Güneş;zgüneş@superduper.com;directeur;2023-03-27 15:12:46;2023-03-27 15:12:46
+75;mevr.;Lenn;van Bovenen;lvanbovenen@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+76;ing.;Sterre;Demirel;sdemirel@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+77;mevr.;Lily;Hofman;lhofman@superduper.com;verkoopassistent;2023-03-27 15:12:46;2023-03-27 15:12:46
+78;mevr.;Siem;van Doorn;svandoorn@superduper.com;medewerker administratie;2023-03-27 15:12:46;2023-03-27 15:12:46
+79;dhr.;Olaf;Demir;odemir@superduper.com;kassamedewerker;2023-03-27 15:12:46;2023-03-27 15:12:46
+80;ir.;Isis;de Koning;idekoning@superduper.com;medewerker communicatie;2023-03-27 15:12:46;2023-03-27 15:12:46
